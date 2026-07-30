@@ -1,4 +1,11 @@
 """
+
+Student Name: Kumiko Komori
+Student ID: A18547845
+
+*AI Usage: Used Claude for all coding and conceptual portions of this assignment.*
+
+=====================================================================
 submission.py -- Sonic Co-Performer Agent  (STUDENT STARTER SCAFFOLD)
 =====================================================================
 
